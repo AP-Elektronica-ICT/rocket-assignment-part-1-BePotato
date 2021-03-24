@@ -13,7 +13,13 @@ public class MyGameManager : MonoBehaviour
         Playing,
         GameOver
     }
+    public enum GameLevel
+    {
+        Level1,
+        Level2
+    }
     public GameStates gameState = GameStates.Playing;
+    public GameLevel gameLevel = GameLevel.Level1;
     // Start is called before the first frame update
     void Start()
     {
