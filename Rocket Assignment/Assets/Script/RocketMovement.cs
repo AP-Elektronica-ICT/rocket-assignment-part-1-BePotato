@@ -8,8 +8,8 @@ using UnityEngine.UI;
 public class RocketMovement : MonoBehaviour
 {
     // SerializedField is a qualifier for a variable that makes it public in the Inspector
-    [SerializeField] float Turnspeed = 100f;
-    [SerializeField] float Thrustspeed = 100f;
+    public float Turnspeed = 100f;
+    public float Thrustspeed = 100f;
 
     Rigidbody rigidBody;
 
