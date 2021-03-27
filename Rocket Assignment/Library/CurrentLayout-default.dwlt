@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 998
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 73
+  controlID: 17
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 99
+  controlID: 121
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 44
+  controlID: 122
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -325,14 +325,15 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Script
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\maxim\Desktop\3D Game Dev\Rocket Assignment
+  m_LastProjectPath: C:\Users\maxim\Desktop\AP repo's\rocket-assignment-part-1-BePotato\Rocket
+    Assignment
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2a3d0000
-    m_LastClickedID: 15658
-    m_ExpandedIDs: 00000000043d0000063d0000083d00000a3d0000403d000000ca9a3b
+    m_SelectedIDs: 083d0000
+    m_LastClickedID: 15624
+    m_ExpandedIDs: 00000000f43c0000f63c0000fa3c0000063d00001e3d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +361,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000043d0000063d0000083d00000a3d0000
+    m_ExpandedIDs: 00000000f43c0000f63c0000f83c0000fa3c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -483,7 +484,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 52fbffff143c00002a3c0000
+      m_ExpandedIDs: a893feff38b2feffdebbfeff52befeff84d3feffaed6feff2ee3feff82e4fefff2e9feffaeeafeff00edfeffa2eefeff46f9feff1afbfeffe8fdfeffa6fffeff1209ffffce09ffff8a0affff460bffffea19ffff1a25ffffd625ffff9226ffff9427ffff3028fffffc28ffff9829ffffb8ecffff52fbffffd23b00000c3c00002a3c000094910000d687010042970100f6aa0100a2ac010030b30100ccb4010006cb010010d6010062d601008cd60100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -543,9 +544,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 13.358425, y: 12.70574, z: -1.899725}
+    m_Target: {x: -1.4790535, y: 16.194412, z: -2.0223465}
     speed: 2
-    m_Value: {x: 13.358425, y: 12.70574, z: -1.899725}
+    m_Value: {x: -1.4790535, y: 16.194412, z: -2.0223465}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -592,13 +593,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.024306525, y: 0.00959467, z: -0.00023013772, w: -0.99966943}
+    m_Target: {x: -0.12273888, y: 0.06455913, z: -0.007999835, w: -0.99031985}
     speed: 2
-    m_Value: {x: -0.024306258, y: 0.009594564, z: -0.0002301352, w: -0.99965847}
+    m_Value: {x: -0.12273704, y: 0.06455816, z: -0.007999714, w: -0.99030495}
   m_Size:
-    m_Target: 23.62616
+    m_Target: 30.196156
     speed: 2
-    m_Value: 24.739433
+    m_Value: 30.196156
   m_Ortho:
     m_Target: 0
     speed: 2
